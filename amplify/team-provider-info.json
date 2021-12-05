@@ -1,0 +1,20 @@
+{
+  "devu": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-listing-devu-181537-authRole",
+      "UnauthRoleArn": "arn:aws:iam::076591514582:role/amplify-listing-devu-181537-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::076591514582:role/amplify-listing-devu-181537-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-listing-devu-181537-deployment",
+      "UnauthRoleName": "amplify-listing-devu-181537-unauthRole",
+      "StackName": "amplify-listing-devu-181537",
+      "StackId": "arn:aws:cloudformation:eu-west-1:076591514582:stack/amplify-listing-devu-181537/2e81ae30-552e-11ec-9c7a-06173434f687",
+      "AmplifyAppId": "d1sj89hb8tmjwf"
+    },
+    "categories": {
+      "auth": {
+        "amplifydatamanagerdemo": {}
+      }
+    }
+  }
+}
